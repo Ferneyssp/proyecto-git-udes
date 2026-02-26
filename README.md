@@ -8,3 +8,6 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 ## Integrantes
 -Yeritza Palacio
 -Ferney Santander
+
+## Estado del Proyecto
+En construccion - Taller de Git UDES 2026
