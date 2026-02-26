@@ -11,3 +11,4 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 
 ## Estado del Proyecto
 Proyecto en desarrollo activo - Taller de Git UDES 2026 - Version 1.0
+-----------------------------------------------------------------------------
