@@ -9,6 +9,10 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 -Yeritza Tatiana Palacio Carrillo
 -Ferney Santiago Santander Pardo
 
+
+
 ## Estado del Proyecto
-Proyecto en desarrollo activo - Taller de Git UDES 2026 - Version 1.0
------------------------------------------------------------------------------
+Proyecto en desarrollo activo - Version 1.0
+------------------------------------------------------------------------
+
+
